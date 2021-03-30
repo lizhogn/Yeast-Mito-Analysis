@@ -2,7 +2,7 @@
 
 ## [Demo](https://blog-1301406136.cos.ap-nanjing.myqcloud.com/source/cell_analysis/cell_analysis.mp4)
 
-![](/home/lizhogn/YeastMitoAnalysis/README/demo.png)
+<img src="/home/lizhogn/YeastMitoAnalysis/README/demo.png" style="zoom:80%;" />
 
 ## Usage
 
